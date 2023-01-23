@@ -16,3 +16,7 @@ button {
 .email-link {
   color: var(--bs-body-color);
 }
+#contact-button {
+  color: white;
+  text-decoration: none;
+}
