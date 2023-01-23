@@ -13,3 +13,6 @@ button {
 .hero {
   text-align: center;
 }
+.email-link {
+  color: var(--bs-body-color);
+}
